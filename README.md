@@ -1,3 +1,3 @@
-#Sample Git/Vue.js App
+# Sample Git/Vue.js App #
 
-This is an app to test git and Vue.js
+This is an app to test *git* and *Vue.js*
